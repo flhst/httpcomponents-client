@@ -94,3 +94,6 @@ may be subject to export controls on cryptographic software:
 > 
 > Apache HttpComponents Client does not include any
 > implementation of JSSE.
+
+
+mvn clean package
